@@ -14,3 +14,7 @@ input[type="text"] {
 	margin-bottom: 20px;
     background-color: rgba(240, 248, 255, 0.048);
 }
+
+#movies{
+	color: aliceblue;
+}
